@@ -1,1 +1,1 @@
-print ("Gabriel Marcovici")
+print ("Gabriel")
